@@ -35,18 +35,19 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+interests: 
+  - Теоретическая механика
+  - Математическое моделирование
+  - Программирование
+  - Шахматы
 
 education:
   - area: Student
     institution: RUDN
     date_start: 2024-09-01
     date_end: 2028-05-31
-    summary: 
-      
+    summary: Изучаю математику и механику, интересуюсь численными методами, моделированием физических процессов и программированием.
+
 work:
   - position: Student
     company_name: RUDN
@@ -54,7 +55,7 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 
+    summary: Осваиваю методы математического анализа, теоретической механики и компьютерного моделирования.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -62,36 +63,39 @@ skills:
   - name: Хард скиллы
     items:
       - name: Python
-        description: ''
-        percent: 60
+        description: Программирование и работа с численными методами
+        percent: 70
         icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
+      - name: MATLAB
+        description: Математическое моделирование и вычисления
+        percent: 65
         icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
-        icon: circle-stack
+      - name: LaTeX
+        description: Оформление научных документов
+        percent: 55
+        icon: document-text
   - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Прогулки
-        description: ''
+      - name: Шахматы
+        description: Играю в свободное время, развиваю логическое мышление
+        percent: 85
+      - name: Решение математических задач
+        description: Участвую в олимпиадах и конкурсах
+        percent: 90
+      - name: Прогулки на природе
+        description: Люблю исследовать новые места
         percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
-        percent: 80
 
 languages:
   - name: Русский
     percent: 100
   - name: Английский
-    percent: 60
+    percent: 65
+  - name: Немецкий
+    percent: 40
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
